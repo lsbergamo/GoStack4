@@ -40,6 +40,7 @@ export default function App() {
     });
 
     setRepositories(repositorieUpdated);
+
   }
 
   return (
